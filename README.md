@@ -1,6 +1,6 @@
 Author: Tra Nguyen
 
-For the implementation of my Multi Media Project 1 in the first semester (working title: Backpackers - Find Secret Spots), the following programming languages ​​have been used: 
+For the implementation of my Multi Media Project 1 in the second semester (working title: Backpackers - Find Secret Spots), the following programming languages ​​have been used: 
 - PHP and Javascript/jQuery
 - Markup-Language: HTML, the basic structure of the project
 - Style language: CSS, which is responsible for the appearance of the HTML documents.
